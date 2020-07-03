@@ -1,3 +1,3 @@
 # Demo
-Prubas de git
+Pruebas de git
 emmaaa
